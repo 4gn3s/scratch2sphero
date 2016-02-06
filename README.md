@@ -8,6 +8,7 @@ With Scratch2Sphero, you can control [Sphero 2.0](http://www.gosphero.com/) from
 - [Scratch 1.4](http://scratch.mit.edu/scratch_1.4/) - Programing environment
 - [hybridgroup-serialport](https://github.com/hybridgroup/ruby-serialport/) - Used by the sphero gem to talk bluetooth
 - [sphero gem](https://github.com/hybridgroup/sphero/) - Used by the script to talk to the sphero api
+- [Ruby 1.9]() - The script does not work with the newest ruby.
 
 ## Installation
 
@@ -26,6 +27,14 @@ or
 ```
 
 If you cannot use git, you can download the source code from "Download ZIP" button appeared on the right side of the README page.
+
+Additional steps to perform on Ubuntu:
+
+1. Run:
+```sh
+sudo chmod 777 /dev/rfcomm0
+```
+2. Use the special ubuntu .rb script instead of the regular one.
 
 ## Getting Started
 
