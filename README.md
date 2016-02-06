@@ -1,6 +1,6 @@
 ## Scratch2Sphero
 
-With Scratch2Sphero, you can control [Sphero 2.0](http://www.gosphero.com/) from [Scratch 1.4](http://scratch.mit.edu). Tested on MacOS X(10.8.5, 10.9, and 10.9.1).
+With Scratch2Sphero, you can control [Sphero 2.0](http://www.gosphero.com/) from [Scratch 1.4](http://scratch.mit.edu). Tested on MacOS X(10.8.5, 10.9, and 10.9.1) and Ubuntu 15.
 
 ## Requirements
 
